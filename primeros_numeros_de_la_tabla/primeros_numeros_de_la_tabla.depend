@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1520532780 source:c:\users\alejandro\desktop\montajes codeblock\primeros_numeros_de_la_tabla\main.cpp
+	<iostream>
+	<math.h>
+	<stdlib.h>
+
